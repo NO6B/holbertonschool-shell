@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r [AZ]* /tmp/u
+grep [[:upper:]]* && cp /tmp/u
