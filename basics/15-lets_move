@@ -1,2 +1,2 @@
 #!/bin/bash
-grep [[:upper:]]* && cp /tmp/u
+cp [AZ]* /tmp/u
