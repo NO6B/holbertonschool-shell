@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -l | grep -e root |tail -n 3
