@@ -1,1 +1,1 @@
-wc -l |grep bin /etc/passwd
+grep -e bin /etc/passwd | wc -l
